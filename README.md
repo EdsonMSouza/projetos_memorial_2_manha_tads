@@ -15,7 +15,7 @@ Os grupos devem ser formados com cinco (5) alunos e comunicados para mim na pró
 ## Calendário de Entregas
 * **06/04**
 	+ Nome e RA dos membros do grupo.
-	+ Proposta do projeto - descrever no documento qual é a proposta a ser desenvolvida pelo grupo.
+	+ Proposta do projeto.
 	+ Escopo, tarefas e cronograma do projeto.
 
 ## Professor
