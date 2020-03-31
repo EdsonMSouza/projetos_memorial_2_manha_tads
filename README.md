@@ -10,7 +10,7 @@ O grupo deverá criar um ambiente no Google Drive e compartilhar o documento dis
 
 Farei as correções de forma online, acessando diretamente o documento no Google Drive. Portanto, não me enviem documentos por e-mail.
 
-Os grupos devem ser formados com cinco (5) alunos e comunicados para mim na próxima aula. Grupos formados anteriormente podem ser mantidos, mesmo que seja maior que cinco (5) o número de alunos participantes.
+Os grupos devem ser formados com cinco (5) alunos e comunicados para mim na próxima aula. Grupos formados anteriormente podem ser mantidos, mesmo que seja maior que cinco (5) o número de alunos participantes. **O projeto pode ser desenvolvido de forma individual, entretanto, devido a complexidade, por prejudicar sua avaliação por não cumprir todos os requisitos**.
 
 ## Calendário de Entregas
 * **06/04**
