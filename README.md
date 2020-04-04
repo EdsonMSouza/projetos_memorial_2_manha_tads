@@ -12,9 +12,6 @@ Como todo projeto, trabalharemos em grupo e teremos uma série de atividades a s
 
 Os grupos devem ser formados com cinco (5) alunos e comunicados para mim na próxima aula. Grupos formados anteriormente podem ser mantidos, mesmo que seja maior que cinco (5) o número de alunos participantes. **O projeto pode ser desenvolvido de forma individual. Entretanto, devido a complexidade, pode prejudicar sua avaliação por não cumprir todos os requisitos devido ao tempo**.
 
-## Estrutura do Projeto
-![Title](ESTRUTURA_DO_PROJETO.png)
-
 ## Calendário de Entregas
 * **06/04**
 	+ Nome e RA dos membros do grupo.
