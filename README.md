@@ -32,6 +32,15 @@ Os grupos devem ser formados entre cinco (5) e sete (7) alunos, devendo ser info
 * **04/05**
 	+ Entregar as telas principais (Wireframes)
 
+* **11/05**
+	+ Diagramas de Caso de Uso (UML) (Obrigatório)
+	+ Diagramas de Classe (UML)
+	+ Fluxo de Dados (Navegação)
+
+* **18/05**
+	+ Diagramas de Classe (UML)
+	+ APP com funcionamento parcial (Apenas para Projeto)
+
 ## Professor
 Edson Melo de Souza, Me. - ([prof.edson.melo@gmail.com](mailto:prof.edson.melo@gmail.com)) - ([Currículo *Lattes*](http://lattes.cnpq.br/2641658716558510))
 
