@@ -41,6 +41,11 @@ Os grupos devem ser formados entre cinco (5) e sete (7) alunos, devendo ser info
 	+ Diagramas de Classe (UML)
 	+ APP com funcionamento parcial (Apenas para Projeto)
 
+* **15/06**
+	+ Entrega final do Projeto
+		+ Documentação
+		+ Códigos Fonte
+		
 ## Professor
 Edson Melo de Souza, Me. - ([prof.edson.melo@gmail.com](mailto:prof.edson.melo@gmail.com)) - ([Currículo *Lattes*](http://lattes.cnpq.br/2641658716558510))
 
